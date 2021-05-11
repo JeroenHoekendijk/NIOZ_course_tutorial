@@ -1,1 +1,6 @@
 secrets.txt
+# Ignore everything with word secret:
+*secret*
+
+# Ignore big data folder
+big-data/
