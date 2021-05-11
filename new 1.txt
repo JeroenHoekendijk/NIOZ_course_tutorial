@@ -1,3 +1,6 @@
 These is a file in the new branch
 
 Got it?
+
+
+new branch change to create conflict
