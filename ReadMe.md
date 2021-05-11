@@ -10,7 +10,7 @@ Fancy code font? mono space
 
 `I am code, see?`
 
-```
+```python
 import numpy as np
 
 x=3
