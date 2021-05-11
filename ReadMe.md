@@ -9,3 +9,9 @@ thank you for reading me. Did you hear my voice?
 Fancy code font? mono space
 
 `I am code, see?`
+
+```
+import numpy as np
+
+x=3
+```
