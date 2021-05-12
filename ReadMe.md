@@ -2,7 +2,7 @@
 
 ### yes
 
-thank you for reading me. Did you hear my voice?
+thank you for reading me. 
 
 [database walvisstrandingen](www.walvisstrandingen.nl)
 
